@@ -13,3 +13,6 @@ echo "$(( $x-$y ))"
 
 echo "multiplication"
 echo "$(( $x*$y ))"
+
+echo "division"
+echo "$(( x/y ))"
