@@ -10,3 +10,6 @@ echo "$(( $x+$y ))"
 
 echo "subtraction"
 echo "$(( $x-$y ))"
+
+echo "multiplication"
+echo "$(( $x*$y ))"
